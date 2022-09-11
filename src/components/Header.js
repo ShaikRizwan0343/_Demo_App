@@ -56,5 +56,6 @@ const useStyle = theme =>
       fontSize: textScale(22),
       fontWeight: '600',
       textAlign: 'center',
+      color: '#000',
     },
   });

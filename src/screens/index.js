@@ -1,6 +1,3 @@
-export {default as Login} from './auth/Login';
-export {default as SignUp} from './auth/SignUp';
-export {default as DashBoard} from './auth/DashBoard';
 export {default as CurrentLocation} from './dashboard/CurrentLocation';
 export {default as GetData} from './dashboard/GetData';
 export {default as Home} from './dashboard/Home';

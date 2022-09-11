@@ -81,7 +81,7 @@ const useStyle = theme =>
     button: {
       marginVertical: moderateScaleVertical(20),
       marginHorizontal: moderateScale(20),
-      width: moderateScale(350),
+      width: moderateScale(320),
       borderRadius: moderateScale(16),
     },
     text: {
