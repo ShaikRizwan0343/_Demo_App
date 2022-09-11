@@ -66,9 +66,12 @@ const useStyle = theme =>
     imageWrapper: {
       height: moderateScaleVertical(80),
       width: moderateScale(80),
+      borderWidth: 1,
       borderRadius: moderateScale(40),
       alignSelf: 'center',
       marginTop: moderateScaleVertical(50),
+      alignItems: 'center',
+      justifyContent: 'center',
     },
     image: {
       height: moderateScaleVertical(80),
